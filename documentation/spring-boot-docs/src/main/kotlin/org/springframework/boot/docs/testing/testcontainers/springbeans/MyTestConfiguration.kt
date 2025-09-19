@@ -13,6 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+ 
 package org.springframework.boot.docs.testing.testcontainers.springbeans
 
 import org.springframework.boot.test.context.TestConfiguration
@@ -29,4 +30,3 @@ class MyTestConfiguration {
 	}
 
 }
-

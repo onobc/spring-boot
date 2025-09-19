@@ -13,6 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+ 
 package org.springframework.boot.docs.features.devservices.testcontainers.atdevelopmenttime.devtools
 
 import org.springframework.boot.devtools.restart.RestartScope
@@ -32,4 +33,3 @@ class MyContainersConfiguration {
 	}
 
 }
-
